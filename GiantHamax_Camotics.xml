@@ -1,0 +1,19 @@
+<camotics>
+  <!-- Note, all values are in mm regardless of 'units' option. -->
+  <!-- NC Files -->
+  <nc-files>
+    GiantHamax.ngc
+  </nc-files>
+
+  <!-- Renderer -->
+  <resolution v='0.874604'/>
+
+  <!-- Workpiece -->
+  <automatic-workpiece v='true'/>
+  <workpiece-max v='(93.5,74.4375,0)'/>
+  <workpiece-min v='(-93.5,-6.6875,-11.025)'/>
+
+  <tool_table>
+    <tool length='20' number='2' radius='2' shape='CYLINDRICAL' units='MM'/>
+  </tool_table>
+</camotics>
