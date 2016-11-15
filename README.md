@@ -3,6 +3,7 @@ Adapter for mounting Hamax child seat onto a Giant e-bike
 ## Front bracket
 * [front bracket](https://drive.google.com/open?id=0B5_mAlpV8IjvVjJNTEVIU1ZCUmM)
 * [front bracket_pic2](https://drive.google.com/open?id=0B5_mAlpV8IjvczJOUTBDSXNsVDA)
+
 ## Back bracket
 * [back bracket](https://drive.google.com/open?id=0B5_mAlpV8IjvdmJTcnJxTV9HT0U)
 
