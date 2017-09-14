@@ -1,11 +1,12 @@
 # giant-hamax-bike-mount
 Adapter for mounting Hamax child seat onto a Giant e-bike
+
 ## Front bracket
-* [front bracket](https://drive.google.com/open?id=0B5_mAlpV8IjvVjJNTEVIU1ZCUmM)
-* [front bracket_pic2](https://drive.google.com/open?id=0B5_mAlpV8IjvczJOUTBDSXNsVDA)
+<img src="https://github.com/LieBtrau/giant-hamax-bike-mount/blob/master/20161003_200435.jpg" alt="Drawing" style="width:100px"/>
+<img src="https://github.com/LieBtrau/giant-hamax-bike-mount/blob/master/20161003_200530.jpg" alt="Drawing" style="width:100px"/>
 
 ## Back bracket
-* [back bracket](https://drive.google.com/open?id=0B5_mAlpV8IjvdmJTcnJxTV9HT0U)
+<img src="https://github.com/LieBtrau/giant-hamax-bike-mount/blob/master/20161003_200504.jpg" alt="Drawing" style="width:100px"/>
 
 # Output files
 * [g-code file (for LinuxCnC)](https://drive.google.com/open?id=0B5_mAlpV8IjvbHlTNG1saUJGbk0)
